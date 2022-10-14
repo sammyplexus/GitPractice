@@ -9,6 +9,7 @@ Welcome to your practice session with Git. This practice session tests the follo
 5. Raising pull requests
 
 ### Problem statement
+
 A University currently has a manual system of assigning students and professors to courses (they use paper and pen). They intend to transition to a more automated approach in the form of a web application that allows students to choose their courses. Create the underlying database tables for this web application. Here are the constraints below:
 In a university, a Student enrolls in Courses. A student must be assigned to at least one or more Courses. Each course is taught by a single Professor. To maintain instruction quality, a Professor can deliver only one course.
 
