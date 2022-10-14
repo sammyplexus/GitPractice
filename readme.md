@@ -8,12 +8,12 @@ Welcome to your practice session with Git. This practice session tests the follo
 4. Creating new branches
 5. Raising pull requests
 
-### Problem statement
+###Problem statement
 
 A University currently has a manual system of assigning students and professors to courses (they use paper and pen). They intend to transition to a more automated approach in the form of a web application that allows students to choose their courses. Create the underlying database tables for this web application. Here are the constraints below:
 In a university, a Student enrolls in Courses. A student must be assigned to at least one or more Courses. Each course is taught by a single Professor. To maintain instruction quality, a Professor can deliver only one course.
 
-### Exercise
+###Exercise
 
 1. Clone this repository onto your local machine
 2. Create a new branch off the 'main' branch (so first of all ensure you're on the main branch) and call it any name you want
